@@ -13,7 +13,7 @@ toolkits for cherish
 > vue tempalte, using vue vue-router vuex
 
 - [zj_web_demo](https://github.com/xieQin/zj_web_demo)
-> demo for zj_php web-front
+> zj_php web-front boilerplate 
 
 ###### 2.tools
 
@@ -28,4 +28,4 @@ toolkits for cherish
 ###### 3. demo
 
 - [quote-demo](https://github.com/xieQin/quote-demo)
-> vue spa demo
+> vue spa demo, using vue vue-router vuex
