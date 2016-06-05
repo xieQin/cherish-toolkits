@@ -23,7 +23,7 @@ toolkits for cherish
 - [client check](https://github.com/xieQin/cherish-client)
 > client check
 
-- [click action]
+- click action
 
 ###### 3. demo
 - [quote-demo](https://github.com/xieQin/quote-demo)
