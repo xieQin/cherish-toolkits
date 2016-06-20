@@ -31,3 +31,8 @@ toolkits for cherish
 > vue spa demo, using vue vue-router vuex
 
 - [vue-todomvc](https://github.com/xieQin/vue-todomvc)
+
+- [react-learning](https://github.com/xieQin/react-learning) 
+
+- [cherish-dialog](https://github.com/xieQin/cherish-dialog)
+> dialog component using react
