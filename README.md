@@ -36,3 +36,6 @@ toolkits for cherish
 
 - [cherish-dialog](https://github.com/xieQin/cherish-dialog)
 > dialog component using react
+
+- [react-native](https://github.com/xieQin/reactNativeDemo)
+> react-native demo, using hackernews api
