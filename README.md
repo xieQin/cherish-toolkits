@@ -23,7 +23,8 @@ toolkits for cherish
 - [client check](https://github.com/xieQin/cherish-client)
 > client check
 
-- click action
+- [slider](https://github.com/xieQin/cherish-slider)
+> slider js 
 
 ###### 3. demo
 
