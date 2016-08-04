@@ -1,7 +1,7 @@
 # cherish-toolkits
 toolkits for cherish
 
-###### 1.boilerplate
+#### 1.boilerplate
 
 - [html-starter](https://github.com/xieQin/Html-starter)
 > starter for static html
@@ -15,7 +15,7 @@ toolkits for cherish
 - [zj_web_demo](https://github.com/xieQin/zj_web_demo)
 > zj_php web-front boilerplate 
 
-###### 2.tools
+#### 2.tools
 
 - [touch](https://github.com/xieQin/cherish-touch)
 > touch js
@@ -26,7 +26,7 @@ toolkits for cherish
 - [slider](https://github.com/xieQin/cherish-slider)
 > slider js 
 
-###### 3. demo
+#### 3. demo
 
 - [quote-demo](https://github.com/xieQin/quote-demo)
 > vue spa demo, using vue vue-router vuex
