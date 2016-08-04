@@ -40,3 +40,6 @@ toolkits for cherish
 
 - [react-native](https://github.com/xieQin/reactNativeDemo)
 > react-native demo, using hackernews api
+
+- [spontaneous-card](https://github.com/xieQin/spontaneous-card)
+> vue.js project
